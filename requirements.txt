@@ -1,0 +1,15 @@
+requests - HTTP library for API calls
+pyttsx3 - Text-to-speech conversion
+opencv-python - Computer vision and camera access
+numpy - Numerical computing
+psutil - System and process utilities
+Standard Library Modules (built-in):
+
+traceback
+re
+base64
+os
+time
+subprocess
+json
+platform
